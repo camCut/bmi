@@ -1,0 +1,35 @@
+body 
+{
+     background-color: #ffffff;
+     font-family: Arial, Helvetica, sans-serif;
+}
+table.printedBmi {
+
+     border: 1px;
+     border-color: #000000;
+}
+.printedBmi tr:hover {
+     background-color: #ffff99;
+}
+td.date {
+     font-size: 12px;
+     color: #333333;
+}
+
+tr.bmiEven
+{
+     background-color:  #E0FFFF;
+}
+
+tr.bmiOdd
+{
+     background-color:  #95c7c7;
+}
+tr.bmi
+{
+     background-color: #fefce9;
+}
+
+.printedBmi tr:hover {
+     background-color: #ffff99;
+}

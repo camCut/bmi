@@ -1,0 +1,35 @@
+[
+    {
+        "date": 1552132428,
+        "Arm": 34,
+        "Schulter": 101,
+        "Brustumfang": 92,
+        "Unterbrustumfang": 80,
+        "Taille": 94,
+        "Bundumfang": 96,
+        "Hueftumfang": 108,
+        "Bein": 65
+    },
+    {
+        "date": 1572132428,
+        "Arm": 32.5,
+        "Schulter": 99,
+        "Brustumfang": 97.5,
+        "Unterbrustumfang": 82,
+        "Taille": 95,
+        "Bundumfang": 95,
+        "Hueftumfang": 94,
+        "Bein": 65
+    },
+    {
+        "date": 1527132428,
+        "Arm": 35,
+        "Schulter": 100,
+        "Brustumfang": 98.5,
+        "Unterbrustumfang": 83,
+        "Taille": 96,
+        "Bundumfang": 96,
+        "Hueftumfang": 95,
+        "Bein": 65
+    }
+]
